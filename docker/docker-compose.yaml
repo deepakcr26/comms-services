@@ -8,7 +8,7 @@ services:
     environment:
       FLASK_RUN_HOST: 0.0.0.0
       FLASK_RUN_PORT: 7001
-      TWILIO_ACCOUNT_SID: AC4566c9105b70564b1a7318ddeb2c362a
-      TWILIO_API_KEY: SK38d3f7ff46b1473ce225af1e8346bb8c
-      TWILIO_API_SECRET: 4xHYBfJXBosHnBsgctLaQV9JyY1WhfKd
+      TWILIO_ACCOUNT_SID: <VALUE>
+      TWILIO_API_KEY: <VALUE>
+      TWILIO_API_SECRET: <VALUE>
     restart: always
