@@ -1,5 +1,10 @@
 # comms-services
 
+Pre-Requisites:
+--------------
+1. Docker needs tob installed
+2. Need to have Twilio Account SID, API Key and Secret
+
 Steps to start:
 --------------
 1. `cd docker`
